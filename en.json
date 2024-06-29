@@ -2181,6 +2181,10 @@
     "ULTIROSYS-ALL-FILTERS": "All filters",
     "ULTIROSYS-CLEANEST-WATER-TITLE": "The Cleanest Water On Earth",
     "ULTIROSYS-PRODUCT_DESCRIPTION": "The foundation of our Reverse Osmosis Systems, the Express Water RO5DX and RO10DX Systems are NSF Certified. Our RO Systems also reduce up to 99.99% of 158 impurities and Total Dissolved Solids (TDS).",
-
+    "SPONSORINFO" : "Sponsor number or email",
+    "SPONSORINFOLB" : "Provide Sponsor info if known. However, it's not required to register.",
+    "SPONSORNOT" : "Cannot find the Sponsor based on you provided number/email, do you want continue?",
+    "SPONSORERR" : "Please provide correct Sponsor user's ID or email, then try again.",
+    "DISTRIBUTORBENEFIT" : "Join our Independent Distributor Program and get paid for sharing great products. please click on the link below to accept. No other fees required",
     "empty":""
 }
