@@ -2168,6 +2168,12 @@
     "ULTIROSYS-ALL-FILTERS": "所有过滤器",
     "ULTIROSYS-CLEANEST-WATER-TITLE": "地球上最干净的水",
     "ULTIROSYS-PRODUCT_DESCRIPTION": "我们反渗透系统的基础，Express Water RO5DX和RO10DX系统通过了NSF认证。我们的反渗透系统还可减少多达99.99%的158种杂质和总溶解固体（TDS）。",
+    "SPONSORINFO" : "赞助人号码或邮箱",
+    "SPONSORINFOLB" : "如果知道，请提供赞助人信息。不过，注册时并不要求提供。",
+    "SPONSORNOT" : "无法根据您提供的号码/邮箱找到赞助人，您是否要继续？",
+    "SPONSORERR" : "请提供正确的赞助人用户ID或邮箱，然后重试。",
+    "DISTRIBUTORBENEFIT" : "加入我们的独立分销商计划，分享优秀产品并获得报酬。请点击下面的链接接受。无需其他费用。"
+,
     "empty":""
       
 }
