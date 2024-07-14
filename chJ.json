@@ -2248,6 +2248,15 @@
     "FULVIC-GUP13": "Gupta, A., et al. (2013). 使用大鼠模型评价黏糊草豆种子提取物的抗炎作用。International Journal of Pharmaceutical Sciences and Research, 4(7), 2666。",
     "FULVIC-KUM12": "Kumar, K.P., et al. (2012). 黏糊草豆对应激诱导的氧化损伤的神经保护作用。Journal of Pharmacy Research, 5(2), 885-889。",
     "FULVIC-THESES":"这些研究提供了支持黏糊草豆各种益处的证据，包括其抗氧化特性、神经保护作用以及在帕金森病中的潜在治疗用途。",
+    "INGREDIENTSTIT" : "成分",
+    "HYDRATINGRE" : "成分: 水，透明质酸钠，二甲基砜，胶体银 100 PPM",
+    "FIRMINGINGRE" : "水，霍霍巴（SIMMONDSIA CHINENSIS）籽油，阿甘油（ARGANIA SPINOSA），鲸蜡醇，鲸蜡硬脂醇钠，硬脂酸，甘油，生育酚，二甲基砜，透明质酸钠，甜橙（CITRUS AURANTIUM DULCIS），葡萄柚（CITRUS RACEMOSA），柠檬（CITRUS LIMONUM），香草（VANILLA PLANIFOLIA），胶体银 100 PPM",
+    "NIGHTCINGRE" : "水，阿甘油（ARGANIA SPINOSA），玫瑰果油（ROSA CANINA），沙棘果油（HIPPOPHAE RHAMNOIDES），鲸蜡醇，鲸蜡硬脂醇钠，硬脂酸，甘油，生育酚，二甲基砜，二甲基氨基乙醇，透明质酸钠，甜橙（CITRUS AURANTIUM DULCIS），葡萄柚（CITRUS RACEMOSA），柠檬（CITRUS LIMONUM），香草（VANILLA PLANIFOLIA），泛醌，胶体银 100 PPM",
+    "TINTEDINGRE" : "胶体银 100 PPM，阿甘油（ARGANIA SPINOSA），玫瑰籽油（ROSA RUBIGINOSA），沙棘果油（HIPPOPHAE RHAMNOIDES），角鲨烷，鲸蜡醇，鲸蜡硬脂醇钠，硬脂酸，辅酶Q10，甘油，D-α生育酚，二甲基砜，透明质酸钠，烟酰胺，丝氨酸，茶叶提取物（CAMELLIA SINENSIS），硅酸，Cl77019，Cl77891，Cl77491，白藜芦醇，覆盆子味",
+    "RESTORINGRE" : "水，甘油，HPMC 二甲基砜，胶体银 100 PPM",
+    "WRINKLEINGRE" : "水，硅酸，透明质酸钠，甘油，硫辛酸，MSM，胶体银 100 PPM",
+	"INTRODUCETIT" : "使用说明",
+	"TINTEDINTRODCE" : "每日涂抹一次或两次液体古铜色。",
     "empty":""
       
 }
