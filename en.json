@@ -2214,7 +2214,6 @@
     "FULVIC-ELEVATES-SOD": "Elevates SOD (Superoxide Dismutase)",
     "FULVIC-OFFERS-MITOCHONDRIAL-SUPPORT": "Offers Mitochondrial Support",
     "FULVIC-PROVIDES-CARDIOVASCULAR-SUPPORT": "Provides Cardiovascular Support",
-
     "FULVIC-SUPPORTIVE-FOR-A-BALANCED-GUT-MICROBIOME": "Supportive for a Balanced Gut Microbiome",
     "FULVIC-ENHANCES-LIPID-METABOLIZATION": "Enhances Lipid Metabolism",
     "FULVIC-NEURO-PROTECTIVE": "Neuroprotective",
@@ -2244,8 +2243,6 @@
     "FULVIC-HOW":"How We’ve Improved Upon An Already Amazing Product",
     "FULVIC-WE":"We have blended two powerful-by-themselves ingredients into one synergistic powerhouse blend that’s sure to improve your overall well being, cognitive function and energy levels. Our blend of high quality fulvic acid powder with mucuna pruriens offers a synergistic combination of health benefits. Fulvic acid, known for its rich mineral content and ability to enhance nutrient absorption, complements the nutritional profile of mucuna pruriens.",
     "FULVIC-MPR":"Mucuna pruriens, on the other hand, is a natural source of L-dopa, a precursor to dopamine. Dopamine is a neurotransmitter that plays a key role in mood regulation, stress management, and motor function. Mucuna pruriens is often used to support mood, cognitive function, and overall well-being.",
-   #last here
-   
     "FULVIC-WHEN":"When combined, fulvic acid and mucuna pruriens create a powerful blend that supports various aspects of health. The fulvic acid enhances the absorption of nutrients from mucuna pruriens, maximizing its benefits. Additionally, the combination of these ingredients provides a wide range of antioxidants, anti-inflammatory compounds, and other nutrients that support overall health and vitality.",
     "FULVIC-MORE":"More on Mucuna Puriens:",
     "FULVIC-MUP":"Mucuna pruriens, commonly known as velvet bean, offers several potential health benefits when supplemented daily. One of its primary benefits is its high content of L-dopa, a precursor to dopamine, a neurotransmitter that plays a crucial role in mood regulation, stress management, and motor function. Daily supplementation with mucuna pruriens may help support mood balance, improve cognitive function, and enhance overall mental well-being.",
@@ -2264,5 +2261,14 @@
     "FULVIC-GUP13": "Gupta, A., et al. (2013). Evaluation of anti-inflammatory effect of Mucuna pruriens seed extract using rat model. International Journal of Pharmaceutical Sciences and Research, 4(7), 2666.",
     "FULVIC-KUM12": "Kumar, K.P., et al. (2012). Neuroprotective effects of Mucuna pruriens against stress-induced oxidative damage. Journal of Pharmacy Research, 5(2), 885-889.",
     "FULVIC-THESES":"These studies provide evidence supporting the various benefits of Mucuna pruriens, including its antioxidant properties, neuroprotective effects, and potential therapeutic use in Parkinson's disease.",
+    "INGREDIENTSTIT" : "Ingredients",
+    "HYDRATINGRE" : "Ingredients: Water, Sodium Hyaluronate, Dimethyl Sulfone, Colloidal Silver 100 PPM",
+    "FIRMINGINGRE" : "Water, Simmondsia Chinensis Seed Oil, Argania Spinosa, Cetearyl Alcohol, Sodium Ceteary, Sulfate, StearicAcid, Glycerin, Tocopherol,Dimethyl Sulfone, Sodium Hyaluronate, Citrus Aurantium Dulcis, Citrus Racemosa, Citrus Limonum, Vanilla Planifolia, Colloidal Silver 100 PPM",
+    "NIGHTCINGRE" : "Water, Argania Spinosa, Rosa Canina Fruit Oil, Hippophae Rhamnoides Fruit Oil, Cetearyl Alcohol, Sodium Cetearyl Sulfate, Stearic Acid, Glycerin, Tocopherol, Dimethyl Sulfone, 2-Dimethylamino Ethanol, Sodium Hyaluronate, Citrus Aurantium Dulcis, Citrus Racemosa, Citrus Limonum, Vanilla Planifolia, Ubiquinone, Colloidal Silver 100 PPM",
+    "TINTEDINGRE" : "Colloidal Silver 100ppm, Argania Spinosa, Rosa Rubiginosa Seed Oil, Hippophae Rhamnoides Fruit Oil, Squalane, Cetearyl Alcohol, Sodium Cetearyl Sulfate, Stearic Acid, Co-Enzyme Q10, Glycerin, D-Alpha Tocopherol, Dimethyl Sulfone, Sodium Hyaluronate, Niacinamide, Silk Amino Acids, Camellia Sinensis Leaf Extract, Silicic Acid, Cl77019, Cl77891, Cl77491, Resveratrol, Raspberry Flavour",
+    "RESTORINGRE" : "Water, Glycerin, HPMC Dimethyl Sulfone, Colloidal Silver 100 PPM",
+    "WRINKLEINGRE" : "Water, Silicic Acid, Sodium Hyaluronate, Glycerin, Thioctic Acid, MSM, Colloidal Silver 100 PPM",
+	"INTRODUCETIT" : "Instructions for use",
+	"TINTEDINTRODCE" : "Apply liquid bronzer once or twice daily.",
     "empty":""
 }
