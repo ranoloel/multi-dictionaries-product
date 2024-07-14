@@ -2230,7 +2230,24 @@
     "FULVIC-HOW": "我们如何改进已经惊人的产品",
     "FULVIC-WE": "我们将两种本身就很强大的成分混合成一种协同增效的强力混合物，肯定会改善您的整体健康、认知功能和能量水平。我们将高质量的富里酸粉末与 Mucuna pruriens 混合在一起，提供了协同组合的健康益处。富里酸以其丰富的矿物质含量和增强营养吸收的能力而闻名，补充了 Mucuna pruriens 的营养成分。",
     "FULVIC-MPR": "另一方面，Mucuna pruriens 是一种天然的左旋多巴来源，是多巴胺的前体。多巴胺是一种神经递质，在情绪调节、压力管理和运动功能中起着关键作用。 Mucuna pruriens 通常用于支持情绪、认知功能和整体健康。",
-   
+    "FULVIC-WHEN":"当结合使用时，富里酸和黏糊草豆创造了一种强大的混合物，可以支持各种健康方面。富里酸增强了黏糊草豆中营养素的吸收，最大化其益处。此外，这些成分的组合提供了广泛的抗氧化剂、抗炎化合物和其他支持整体健康和活力的营养素。",
+    "FULVIC-MORE":"关于黏糊草豆的更多信息：",
+    "FULVIC-MUP":"黏糊草豆，通常称为天蚕豆，在日常补充时提供了几种潜在的健康益处。其主要益处之一是其高含量的左旋多巴，这是一种多巴胺的前体，多巴胺是调节情绪、压力管理和运动功能的重要神经递质。每日补充黏糊草豆可能有助于支持情绪平衡，改善认知功能，并增强整体心理健康。",
+    "FULVIC-ADD":"此外，黏糊草豆富含抗氧化剂，包括黄酮类、生物碱和酚酸，这些抗氧化剂有助于保护细胞免受自由基和氧化应激引起的损害。这些抗氧化剂还具有抗炎特性，可能有助于减少体内的炎症，支持整体健康。",
+    "FULVIC-MUC":"黏糊草豆也被研究其潜在的催情效果，有些研究表明它可能有助于改善男性和女性的性欲和性功能。此外，黏糊草豆可能通过支持健康的睾酮水平，帮助支持男性的荷尔蒙平衡。",
+    "FULVIC-DAI":"每日补充黏糊草豆可能提供一系列潜在的情绪、认知功能、抗氧化支持和荷尔蒙平衡的益处，使其成为那些希望支持整体健康和福祉的人的热门选择。",
+    "FULVIC-THERE":"关于黏糊草豆，已经发表了数百篇科学研究。这些研究探索了其效果和益处的各个方面，包括其在帕金森病中的潜在用途、其抗氧化特性、对生育和荷尔蒙平衡的影响及其神经保护作用等。以下是关于黏糊草豆益处的10项科学研究列表：",
+    "FULVIC-SP2009": "Suresh, S. & Prithiviraj, E. (2009). Mucuna pruriens通过其对下丘脑-垂体-性腺轴的作用改善男性生育能力。Fertility and Sterility, 92(6), 1934-1940。",
+    "FULVIC-MAN04a": "Manyam, B.V., et al. (2004). 抗帕金森药物--黏糊草豆显示抗氧化和金属螯合活性。Phytotherapy Research, 18(8), 706-712。",
+    "FULVIC-MAN04b": "Manyam, B.V., et al. (2004). 黏糊草豆在帕金森病中的作用：一项双盲临床和药理学研究。在：第5届国际阿尔茨海默病和帕金森病会议。",
+    "FULVIC-KAT04": "Katzenschlager, R., et al. (2004). 黏糊草豆在帕金森病中的作用：一项双盲临床和药理学研究。Journal of Neurology, Neurosurgery & Psychiatry, 75(12), 1672-1677。",
+    "FULVIC-LIE12": "Lieu, C.A., et al. (2010). 黏糊草豆在MPTP处理的非人灵长类动物中的抗帕金森和抗异动作用。Evidence-Based Complementary and Alternative Medicine, 2012。",
+    "FULVIC-YAD13": "Yadav, S.K., et al. (2013). 黏糊草豆种子提取物减少黑质组织中的氧化应激，并改善在对抗对甲基吡啶(paraquat)诱导的帕金森病小鼠模型中的神经行为活动。Neurochemistry International, 62(8), 1039-1047。",
+    "FULVIC-SHU17": "Shukla, K.K., et al. (2017). 黏糊草豆在帕金森病小鼠模型中减少诱导型一氧化氮合酶表达。Journal of Chemical Neuroanatomy, 85, 49-54。",
+    "FULVIC-NEG11": "Negi, K.S., et al. (2011). 黏糊草豆对小鼠认知功能的促智活动。Journal of Pharmacy and Bioallied Sciences, 3(2), 238-246。",
+    "FULVIC-GUP13": "Gupta, A., et al. (2013). 使用大鼠模型评价黏糊草豆种子提取物的抗炎作用。International Journal of Pharmaceutical Sciences and Research, 4(7), 2666。",
+    "FULVIC-KUM12": "Kumar, K.P., et al. (2012). 黏糊草豆对应激诱导的氧化损伤的神经保护作用。Journal of Pharmacy Research, 5(2), 885-889。",
+    "FULVIC-THESES":"这些研究提供了支持黏糊草豆各种益处的证据，包括其抗氧化特性、神经保护作用以及在帕金森病中的潜在治疗用途。",
     "empty":""
       
 }
