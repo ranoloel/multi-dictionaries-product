@@ -1921,9 +1921,9 @@
     "CREDITCARDONLY" : "Credit Card Only",
     "USERNAME" : "User Name",
     "CANCELORDNOTICE" : "Click Group ID to confirm and cancel order",
-    "BYPAYPAL" : "PayPal, Debit card, etc.",
+    "BYPAYPAL" : "PayPal, Debit Card or Credit Card",
     "SELECTPAYTYPE" : "Please Select Payment Type",
-    "BYSTRIPE" : "Stripe",
+    "BYSTRIPE" : "Stripe, Debit Card or Credit Card",
     "EPAYMENTDETAIL" : "Enter payment details",
     "SUBMITPAY" : "Submit Payment",
     "SKINCARE" : "Skin Care",
@@ -2291,5 +2291,10 @@
     "HYDRO-Dextrose":"Dextrose, Malic Acid, L-Tartaric Acid, Adipic Acid",
     "PET60-INGREDIENTS-DESC":"50 ML Organic Avocado oil or Black Seed Oil, 220 mg C60 (99.95% pure) (Sublimed)",
     "LINKEXPIRED" : "This link has expired. Please contact the person who had sent you this link to obtain a new link.",
+    "NETMARKETLINKS" : "Network Marketg Links",
+    "AFFILIATELINKS" : "Affiliate Program Links",
+    "WEBPAGEWITHUSERID" : "Standard Webpage With Membership No",
+    "YOURWEBPAGE" : "Customize Your Webpage",
+    "PAYBYSTRIPE" : "Stripe, Debit Card Or Credit Card",
     "empty":""
 }
